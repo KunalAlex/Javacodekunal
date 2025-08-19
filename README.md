@@ -1,3 +1,3 @@
-# Javacodekunal
-This is my java codes repository </br>
+# Pythoncodekunal
+This is my python codes repository </br>
 Author : Kunal Ayare
